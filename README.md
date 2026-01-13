@@ -12,7 +12,7 @@ It demonstrates **basic CRUD functionality**, clean UI handling, reusable compon
 - Edit an existing candidate
 - Delete a candidate
 - Form validation for required fields
-- Data persistence using browser localStorage
+- Data persistence using browser `localStorage`
 - Clean folder structure and reusable components
 
 ---
@@ -53,26 +53,29 @@ candidate-vault/
 ├─ README.md
 
 
+
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 - **Node.js** (v18 or v20 recommended)
-- npm
+- **npm**
 
 ---
 
 ### Installation
 
-```bash
+```
 git clone https://github.com/<your-username>/candidate-vault.git
 cd candidate-vault
 npm install
+```
 
-Run the Application
-npm run dev
+```
+Run the Application: npm run dev
+```
 
-
+```
 Open your browser and visit: http://localhost:3000
-
+```
