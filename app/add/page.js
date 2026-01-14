@@ -1,5 +1,5 @@
-import DecisionForm from "../../components/DecisionForm";
+import CandidateForm from "../../components/CandidateForm";
 
 export default function AddPage() {
-  return <DecisionForm />;
+  return <CandidateForm />;
 }
